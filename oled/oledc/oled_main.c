@@ -7,6 +7,7 @@
 #include <getopt.h>
 #include "oled_sub.h"
 //test
+//test2
 
 static struct {
 	char *cmd;
